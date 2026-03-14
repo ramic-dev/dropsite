@@ -1,0 +1,11 @@
+Fully responsive layout powered by Bootstrap 5.3 with no custom CSS.
+
+Automatic navigation built from your folder structure.
+Fullscreen image carousel with crossfade transitions.
+Image galleries with lightbox, keyboard navigation and lazy loading.
+Nested sub-sections up to 10 levels deep.
+Social media links with icons, discovered from config/social/ text files.
+Footer with copyright, VAT number and privacy policy link.
+Inline links in content for emails, phone numbers and websites.
+
+Works offline after first load thanks to the service worker. Serves from any static host, no server-side code needed.

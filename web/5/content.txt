@@ -1,0 +1,5 @@
+Copy index.html and sw.js into a folder. Create web/ and config/ directories. Add your content and serve with any web server.
+
+Check out the examples/ folder for a complete working site you can use as a starting point.
+
+["View on GitHub","https://github.com/ramic-dev/dropsite"]

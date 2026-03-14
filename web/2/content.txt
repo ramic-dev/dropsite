@@ -1,0 +1,7 @@
+The JavaScript discovers content by trying to load numbered files and folders until the first 404. No hardcoded lists, no configuration files to maintain.
+
+Sections are numbered folders inside web/. Each folder contains a title.txt and a content.txt. Add a folder, the site grows. Delete a folder, the site shrinks. Numbering must be consecutive starting from 1.
+
+Images work the same way. Drop 1.jpg, 2.jpg, 3.jpg into a section folder and a gallery with lightbox appears automatically. Carousel slides go in web/ as slide-1.jpg, slide-2.jpg and so on.
+
+Site settings like logo, title, copyright and social links live in the config/ folder as plain text files. Everything is a text file.

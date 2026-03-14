@@ -1,0 +1,10 @@
+["reception@brightsmile.co.uk","mailto:reception@brightsmile.co.uk"]
+["+44 20 7456 7890","tel:+442074567890"]
+Emergency line: ["+44 20 7456 7899","tel:+442074567899"]
+
+45 Harley Street
+London W1G 8QR
+United Kingdom
+
+Monday to Friday 08:00 - 19:00
+Saturday 09:00 - 14:00

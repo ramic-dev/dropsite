@@ -1,0 +1,5 @@
+Build a professional website by simply editing text files and dropping images into folders.
+
+No coding, no CMS, no deploy steps. Write your content in plain text, organize it in numbered folders, and your site is ready. Update a file, the site updates instantly.
+
+dropsite is for anyone who wants a clean, responsive website without technical complexity. It works on any web server and any modern browser.

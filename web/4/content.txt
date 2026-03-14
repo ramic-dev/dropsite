@@ -1,0 +1,13 @@
+Each example is a complete working site you can copy and customize. Click to preview.
+
+["Atelier Studio — Architecture & Design","./examples/atelier-studio/"]
+["Bella Napoli — Pizzeria","./examples/pizzeria/"]
+["The Grand Oak — Hotel","./examples/hotel/"]
+["Clara Voss — Photography Portfolio","./examples/portfolio/"]
+["Iron Peak Fitness — Gym","./examples/gym/"]
+["Mitchell & Partners — Law Firm","./examples/lawyer/"]
+["Morning Ritual — Café","./examples/cafe/"]
+["Bright Smile Dental — Dentist","./examples/dentist/"]
+["Summit Realty — Real Estate","./examples/realestate/"]
+["Grace & Co — Wedding Planning","./examples/wedding/"]
+["The Blade Room — Barber Shop","./examples/barber/"]

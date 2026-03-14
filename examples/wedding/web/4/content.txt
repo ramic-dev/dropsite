@@ -1,0 +1,10 @@
+Grace & Co Wedding Planning
+8 Royal Crescent
+Bath BA1 2LR
+
+["hello@graceandco.co.uk","mailto:hello@graceandco.co.uk"]
+["01225 678 900","tel:+441225678900"]
+
+We'd love to hear about your plans. Book a complimentary consultation and let's start creating something beautiful together.
+
+["Book a consultation","mailto:hello@graceandco.co.uk?subject=Consultation%20Request"]

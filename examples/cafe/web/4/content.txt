@@ -1,0 +1,9 @@
+["hello@morningritual.co","mailto:hello@morningritual.co"]
+["+44 20 7234 5678","tel:+442072345678"]
+
+87 Columbia Road
+London E2 7RG
+United Kingdom
+
+Monday to Friday 07:00 - 18:00
+Saturday and Sunday 08:00 - 17:00

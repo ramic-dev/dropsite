@@ -1,0 +1,10 @@
+["hello@bellanapoli.com","mailto:hello@bellanapoli.com"]
+["+44 20 7123 4567","tel:+442071234567"]
+
+12 Greek Street
+London W1D 4DL
+United Kingdom
+
+Monday to Thursday 12:00 - 22:00
+Friday and Saturday 12:00 - 23:00
+Sunday 12:00 - 21:00
